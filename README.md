@@ -32,7 +32,7 @@ A Markdown syntax cheatsheet
 
 ### Lists
 
-** Unordered **
+**Unordered**
 
 ```
 * Item 1
@@ -43,7 +43,7 @@ A Markdown syntax cheatsheet
     * Item 2d
 ```
 
-** Ordered **
+**Ordered**
 
 ```
 1. Item 1
@@ -58,14 +58,14 @@ A Markdown syntax cheatsheet
 
 ### Syntax Highlighting
 
-** Code block **
+**Code block**
 ```
 ```Javascript
 var name = "Jonathan";```
 ```
 *Adding Javascript after the backticks enables syntax highlighting.*
 
-** Inline code **
+**Inline code**
 
 ```
 Sometimes you might need to include a `short snippet` in the middle of a sentence.
