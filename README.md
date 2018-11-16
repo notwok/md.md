@@ -59,14 +59,17 @@ A Markdown syntax cheatsheet
 ### Syntax Highlighting
 
 ** Code block **
-
-```Javascript
-var name = "Jonathan";
 ```
+```Javascript
+var name = "Jonathan";```
+```
+*Adding Javascript after the backticks enables syntax highlighting.*
 
 ** Inline code **
 
+```
 Sometimes you might need to include a `short snippet` in the middle of a sentence.
+```
 
 ### Tables
 
