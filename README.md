@@ -1,5 +1,5 @@
 # md.md
-A Markdown syntax cheatsheet 
+A Markdown Cheatsheet 
 
 ### Headings
 
